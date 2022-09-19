@@ -23,11 +23,11 @@ ul {
     float: left;
     width: auto;
     list-style: outside none none;
-    margin-left: 50px;
+    margin-right: 50px;
     padding-bottom: 50px;
 
  }
-.sb{
+.btn-outline-success{
     height: 30%;
     width: 100%;
     background:  rgba(235, 255, 0, 0.73);
